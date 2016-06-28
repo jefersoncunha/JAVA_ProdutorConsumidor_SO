@@ -1,4 +1,4 @@
-# JAVA - ProdutorxConsumidor SO ( Sistemas Operacionais )
+# ProdutorxConsumidor - SO em Java
 Resolver o problema dos produtores e consumidores através do uso de threads e
 monitores. Deverão existir os seguintes componentes:
 -Thread Produtora: produzirá números aleatórios e colocará em um buffer
